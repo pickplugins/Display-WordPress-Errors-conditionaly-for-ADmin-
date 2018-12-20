@@ -1,4 +1,4 @@
-# Display-WordPress-Errors-conditionaly-for-ADmin-
+# Display WordPress Errors Conditionaly for Admin
 
 You can't run WP function on wp-config.php so its bit tricky to check for the current user is admin or not, 
 you can check by $_GET variable isset or not 
