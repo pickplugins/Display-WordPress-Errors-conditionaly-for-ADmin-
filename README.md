@@ -24,3 +24,6 @@ Then visit by adding url parameter debug on your url
 http://yoursite.com/?debug
 
 Error will only display when debug parameter is set on your url
+
+ALso best practice is check debug.log file under "wp-content" directory
+/wp-content/debug.log
