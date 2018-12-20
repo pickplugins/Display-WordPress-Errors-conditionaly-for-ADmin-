@@ -25,5 +25,5 @@ http://yoursite.com/?debug
 
 Error will only display when debug parameter is set on your url
 
-ALso best practice is check debug.log file under "wp-content" directory
+Also best practice is check debug.log file under "wp-content" directory
 /wp-content/debug.log
